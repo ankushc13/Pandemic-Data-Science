@@ -3,10 +3,10 @@
 
 ## Installation of required Libraries
 
-run the run.py to install required libraries
+run the following command to install required libraries
 
 ```bash
-python3 run.py
+python3 -m pip install -r requirements.txt
 ```
 
 ## Demo
