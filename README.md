@@ -23,7 +23,7 @@ Atharva Chewale
 Ankush Chauhan
 ## Dataset
 
-Dataset we have used : https://api.covid19india.org/
+Dataset we have used :https://api.covid19india.org/states_daily.json
 
 
 ## References
