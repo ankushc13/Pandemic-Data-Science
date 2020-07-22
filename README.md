@@ -10,7 +10,7 @@ python3 run.py
 ```
 
 ## Demo
-we have two folders which contains two different models for prediction of Covid-19   
+we have two folders(Autoregression and Generalized_Inverse_Weibull_Model) which contains two different models for prediction of Covid-19   
 each folder contains demo.py by which you can run demo, it will generate two graphs showing  results of prediction
 
 ```bash
