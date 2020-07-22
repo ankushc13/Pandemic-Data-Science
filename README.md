@@ -16,6 +16,11 @@ each folder contains demo.py by which you can run demo, it will generate two gra
 ```bash
 python3 demo.py
 ```
+
+## Anomaly Detection
+
+Anomaly_Detection folder consists of a jupyter notebook Anomaly.ipynb file when run shows the number of anomaly datapoints of test and trends of different types of cases over different states.
+
 ## Team Members
 Debarya Das  
 Ram Bhagwan Prajapat  
