@@ -19,7 +19,7 @@ python3 demo.py
 
 ## Anomaly Detection
 
-Anomaly_Detection folder consists of a jupyter notebook Anomaly.ipynb file when run shows the number of anomaly datapoints of test and trends of different types of cases over different states.
+Anomaly_Detection folder consists of a jupyter notebook Anomaly.ipynb file when run shows the number of anomaly datapoints of test and trends of different types of cases over different states as matplotlib plots.
 
 ## Team Members
 Debarya Das  
